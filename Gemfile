@@ -7,4 +7,4 @@ group :development do
 end
 
 gem "hashie"
-gem 'sinatra', '1.4.5'
+gem 'sinatra', '1.4.4'
